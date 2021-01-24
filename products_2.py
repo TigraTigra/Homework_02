@@ -58,3 +58,4 @@ while n <= goods:
 print(my_list)
 print(my_analys)
 '''
+#1
